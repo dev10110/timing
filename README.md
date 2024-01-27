@@ -2,6 +2,7 @@
 
 
 A small-ish timing library that is particularly useful when trying to time how long multiple runs of the same function take during loops. 
+Based on `isaac_ros_nvblox/timing`: https://github.com/nvidia-isaac/nvblox/blob/7c76f90749aa26b89faeca2044fbdcabd910d0a6/nvblox/include/nvblox/utils/timing.h
 
 
 ## Setup (Standalone)
